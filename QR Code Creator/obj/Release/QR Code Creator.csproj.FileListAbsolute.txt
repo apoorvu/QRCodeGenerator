@@ -1,0 +1,14 @@
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Release\ApplicationIcon.png
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Release\Background.png
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Release\Images\appbar.delete.rest.png
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Release\Images\appbar.save.rest.png
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Release\QR Code Creator.dll
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Release\QR Code Creator.pdb
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Release\AppManifest.xaml
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\obj\Release\App.g.cs
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\obj\Release\MainPage.g.cs
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\obj\Release\QR Code Creator.g.resources
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\obj\Release\QR Code Creator.dll
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\obj\Release\QR Code Creator.pdb
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\obj\Release\XapCacheFile.xml
+F:\WP 7 apps-IUJ 2\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Release\QR.xap

@@ -1,0 +1,43 @@
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\Bin\Debug\ApplicationIcon.png
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\Bin\Debug\Background.png
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\Bin\Debug\QR Code Creator.dll
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\Bin\Debug\QR Code Creator.pdb
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\Bin\Debug\AppManifest.xaml
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\Bin\Debug\QR_Code_Creator.xap
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\obj\Debug\ResolveAssemblyReference.cache
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\obj\Debug\App.g.i.cs
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\obj\Debug\MainPage.g.i.cs
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\obj\Debug\QR Code Creator.g.resources
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\obj\Debug\QR Code Creator.dll
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\obj\Debug\QR Code Creator.pdb
+c:\users\apoorv\documents\visual studio 2010\Projects\QR Code Creator\QR Code Creator\obj\Debug\XapCacheFile.xml
+C:\Users\Apoorv\Documents\Visual Studio 2010\Projects\QR Code Creator\QR Code Creator\Bin\Debug\Images\appbar.save.rest.png
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\Bin\Debug\ApplicationIcon.png
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\Bin\Debug\Background.png
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\Bin\Debug\Images\appbar.save.rest.png
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\Bin\Debug\QR Code Creator.dll
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\Bin\Debug\QR Code Creator.pdb
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\Bin\Debug\AppManifest.xaml
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\obj\Debug\App.g.i.cs
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\obj\Debug\MainPage.g.i.cs
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\obj\Debug\QR Code Creator.g.resources
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\obj\Debug\QR Code Creator.dll
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\obj\Debug\QR Code Creator.pdb
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\obj\Debug\XapCacheFile.xml
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\Adarsh\Desktop\QR Code Creator\QR Code Creator\Bin\Debug\QR Cod Creator.xap
+E:\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Debug\ApplicationIcon.png
+E:\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Debug\Background.png
+E:\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Debug\Images\appbar.delete.rest.png
+E:\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Debug\Images\appbar.save.rest.png
+E:\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Debug\QR Code Creator.dll
+E:\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Debug\QR Code Creator.pdb
+E:\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Debug\AppManifest.xaml
+E:\QR Code Creator\QR Code Creator\QR Code Creator\obj\Debug\App.g.i.cs
+E:\QR Code Creator\QR Code Creator\QR Code Creator\obj\Debug\MainPage.g.i.cs
+E:\QR Code Creator\QR Code Creator\QR Code Creator\obj\Debug\QR Code Creator.g.resources
+E:\QR Code Creator\QR Code Creator\QR Code Creator\obj\Debug\QR Code Creator.dll
+E:\QR Code Creator\QR Code Creator\QR Code Creator\obj\Debug\QR Code Creator.pdb
+E:\QR Code Creator\QR Code Creator\QR Code Creator\obj\Debug\XapCacheFile.xml
+E:\QR Code Creator\QR Code Creator\QR Code Creator\Bin\Debug\QR Codes.xap

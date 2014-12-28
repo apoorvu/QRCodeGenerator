@@ -1,0 +1,54 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="QR_Code_Creator.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="696"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" Visibility="Visible">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="181"/>
+            <RowDefinition Height="515*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <StackPanel>
+                <TextBlock Name="textblock1" TextWrapping="Wrap"   Text="ENTER TEXT/URL TO GENERATE QUICK RESPONSE(QR) CODE" Width="453" HorizontalAlignment="Left" Height="76" FontWeight="Bold" Foreground="#FF0F244E" FontSize="26" />
+                <TextBox Name="textbox1" HorizontalAlignment="Left" Width="453" TextChanged="textbox1_TextChanged" Height="74" Text="" Foreground="#FF7C1616" FontWeight="Bold" BorderThickness="2" />
+           <Button Name="button1" Click="button1_Click" Content="GENERATE" FontWeight="Bold" Foreground="#FF194107" FontFamily="Calibri" FontSize="28" BorderBrush="#FF1F3B08" />
+          <Canvas Height="293" Name="canvas1">
+                    <Image Canvas.Left="124" Canvas.Top="47" Height="216" Name="image1" Stretch="Fill" Width="216" Source="{Binding e}" HorizontalAlignment="Center" />
+                    <ProgressBar Canvas.Left="0" Canvas.Top="14" Height="20" Name="progressBar1" Width="453" IsIndeterminate="True" Visibility="Collapsed" />
+                </Canvas>
+            </StackPanel>
+        </Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/back1.png" />
+        </Grid.Background>
+    </Grid>
+ 
+    
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.save.rest.png" Text="Save" Click="ApplicationBarIconButton_Click"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.delete.rest.png" Text="Clear" Click="clear_click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>
